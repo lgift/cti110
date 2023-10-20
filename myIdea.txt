@@ -1,0 +1,2 @@
+My idea is to make a website that is actually a scam. It will let a user play rock paper scissors against the website, but the website will only ever pick rock. The user would have 
+thought that they were about to have a fun time on our website, but nope, they would have figured out the trick by the third loop. Maybe I could even add a paywall.
